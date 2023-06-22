@@ -661,16 +661,16 @@ ruby img:nth-child(3){
 }
 #pn{
     position: absolute;
-    top: 675vh;
+    top: 691.2vh;
 }
 #png1{
     position: absolute;
     right: 81vw;
-    top: 665vh; 
+    top: 682vh; 
 }
 #png2{
    position: absolute;
-   top: 650vh;
+   top: 667vh;
    right: 78vw;
 }
 #vec3{
