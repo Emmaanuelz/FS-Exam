@@ -670,21 +670,12 @@ ruby img:nth-child(3){
 #png1{
     position: absolute;
     right: 81vw;
-<<<<<<< HEAD
     top: 683vh; 
 }
 #png2{
    position: absolute;
    top: 668vh;
    right: 79vw;
-=======
-    top: 682vh; 
-}
-#png2{
-   position: absolute;
-   top: 667vh;
-   right: 78vw;
->>>>>>> 0427a9b4ec2a4a8c9722ce5936703e516885a619
 }
 #vec3{
     position: absolute;
