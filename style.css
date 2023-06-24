@@ -661,11 +661,8 @@ ruby img:nth-child(3){
 }
 #pn{
     position: absolute;
-<<<<<<< HEAD
     top: 693vh;
-=======
     top: 691.2vh;
->>>>>>> 0427a9b4ec2a4a8c9722ce5936703e516885a619
 }
 #png1{
     position: absolute;
